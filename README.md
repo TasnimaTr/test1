@@ -9,7 +9,7 @@ Ce dépôt contient un petit site HTML/CSS/JavaScript. **Les fichiers sont volon
 #first readme attempt
 this is the first readme 
 ## section 1: technologies
-- HTML
+- HTML11
 - CSS
 ## section 2: files
  ´index.html´
